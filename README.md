@@ -1,4 +1,4 @@
-MobileDevice.py
+MobileDevice.py iphone api python 控制
 ===============
 
 A python package which aims to wrap Apple's MobileDevice API; to provide 
